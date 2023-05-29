@@ -1,4 +1,4 @@
-package singleton.gof;
+package gof.singleton;
 
 /**
 * Singleton "preguiçoso"
